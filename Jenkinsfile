@@ -33,7 +33,9 @@ node{
 		version: '1.0.0'
 	}
 }
-	    k
+
+	    
+	    lllk
     
     stage('Build Image'){
         sh 'docker build -t ashokit/mavenwebapp .'
